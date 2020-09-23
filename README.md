@@ -66,4 +66,5 @@ public class ConfigService {
 ```
 ## Other resources
 - nacos : https://nacos.io
+- quarkus: https://github.com/quarkusio/quarkus
 - klblog : http://www.kailing.pub/
